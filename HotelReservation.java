@@ -1,5 +1,3 @@
-package kii;
-
 import java.awt.Choice;
 import java.util.Scanner;
 public class HotelReservation {
